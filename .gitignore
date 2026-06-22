@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Cursor
+.cursor/
+
+# Database
+*.db
+
+# Raw datasets
+data/raw/
+
+# Processed datasets (optional)
+data/processed/
+
+# OS files
+.DS_Store
+Thumbs.db
